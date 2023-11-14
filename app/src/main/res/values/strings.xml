@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AddNotes</string>
+    <string name="notes_here">Notes Here</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="title">Title</string>
+    <string name="discription">Discription</string>
+    <string name="_12_00_pm">12:00 pm</string>
+    <string name="start_note_typing">Start Note Typing...</string>
+    <string name="my_note_app">My Note App</string>
+    <string name="developed_by_rudera">DEVELOPED BY RUDERA</string>
+</resources>
